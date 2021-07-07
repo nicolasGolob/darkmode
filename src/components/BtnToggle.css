@@ -1,0 +1,17 @@
+.btn-toggle{
+    width: 60px;
+    height:60px;
+    outline: none;
+    display: flex;
+    text-align: center;
+    justify-content: flex-end;
+	align-items: center;
+}
+
+.btn-toggle:hover{
+    cursor: pointer;
+}
+
+.fas{
+    font-size: 3.3rem;
+}
