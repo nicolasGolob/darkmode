@@ -8,10 +8,35 @@
 
 .content-text{
     text-align: justify;
-    padding: 3rem;
     padding : 2rem 10vw;
     font-size: 1.7rem;
     font-family: 'Poppins', sans-serif;
     font-weight:600;
 }
 
+@media screen and (max-width: 768px) {
+    .content-title{
+        font-size: 1.7rem;
+    }
+    .content-text{
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .content-title{
+        font-size: 1.3rem;
+    }
+    .content-text{
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .content-title{
+        font-size: 1.1rem;
+    }
+    .content-text{
+        font-size: .8rem;
+    }
+}
