@@ -67,7 +67,7 @@
 	}
 
 	.nav-links.active {
-        background-image: linear-gradient(to bottom, #dadada, rgb(175, 175, 175));
+		background-image: linear-gradient(to top, #1f1f1f, rgb(49, 49, 49));
 		left: 0;
 	}
 
