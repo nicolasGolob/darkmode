@@ -60,12 +60,12 @@
 		justify-content: center;
 		align-items: center;
 		width: 100%;
-		top: 3.7rem;
+		top: 2.5rem;
 		left: -100%;
 		transition: 0.6s all;
 	}
 	.nav-links.active {
-		background-image: linear-gradient(to top, #1f1f1f, rgb(49, 49, 49));
+		/* background-image: linear-gradient(to top, #1f1f1f, rgb(49, 49, 49)); */
 		left: 0;
 	}
 	.nav-icon {
