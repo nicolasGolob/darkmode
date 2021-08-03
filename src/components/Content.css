@@ -1,9 +1,8 @@
-
 .content-title{
     padding: 2rem;
     font-size: 2.1rem;
     letter-spacing: .3rem;
-    font-weight: 700;
+    text-transform: uppercase;
 }
 .content-text{
     text-align: justify;
@@ -12,7 +11,6 @@
     font-family: 'Poppins', sans-serif;
     font-weight:600;
 }
-
 @media screen and (max-width: 768px) {
     .content-title{
         font-size: 1.7rem;
@@ -21,7 +19,6 @@
         font-size: 1.3rem;
     }
 }
-
 @media screen and (max-width: 425px) {
     .content-title{
         font-size: 1.3rem;
@@ -30,7 +27,6 @@
         font-size: 1rem;
     }
 }
-
 @media screen and (max-width: 320px) {
     .content-title{
         font-size: 1.1rem;

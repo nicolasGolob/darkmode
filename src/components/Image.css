@@ -3,37 +3,31 @@
     filter: grayscale(0.20);
     border-radius: 4%;
 }
-
 @media (max-width:1120px) {
     .main-image{
         height: 32rem;
     }
 }
-
 @media (max-width:908px) {
     .main-image{
         height: 25rem;
     }
 }
-
 @media (max-width:835px) {
     .main-image{
         height: 23rem;
     }
 }
-
 @media (max-width:765px) {
     .main-image{
         height: 18rem;
     }
 }
-
 @media (max-width:765px) {
     .main-image{
         height: 16rem;
     }
 }
-
 @media (max-width:665px) {
     .main-image{
         height: 12rem;

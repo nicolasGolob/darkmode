@@ -9,8 +9,8 @@ const NavBar = () => {
 	};
 	return (
 		<nav className="navbar">
-			<div className="navbar-logo fade-in">
-                NICOLAS GOLOB 
+			<div className="navbar-logo">
+                PASSIONCODE
             </div> 
 			<div onClick={handleClick} className="nav-icon">
                 <i className={openNav ? "fas fa-times" : "fas fa-bars"}/>
