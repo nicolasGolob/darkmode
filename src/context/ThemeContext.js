@@ -1,5 +1,4 @@
 import React, {useState, createContext} from 'react';
-
 export const ThemeContext = createContext();
 //we initialise here
     const ThemeContextProvider = (props) =>{
@@ -14,7 +13,6 @@ export const ThemeContext = createContext();
     }else{
         document.body.classList.remove('dark-mode');
     }
-
     return(
         <ThemeContext.Provider value={{toggleTheme, theme}}>
             {/* reminder: a provider is the one who will bring the data in all the application it is the past props */}
