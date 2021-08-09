@@ -59,7 +59,6 @@
 		transition: 0.6s all;
 	}
 	.nav-links.active {
-		/* background-image: linear-gradient(to top, #1f1f1f, rgb(49, 49, 49)); */
 		left: 0;
 	}
 	.nav-icon {

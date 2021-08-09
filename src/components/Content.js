@@ -11,7 +11,7 @@ export default function Content() {
         <Image/>
             <p className="content-text">
                 I started a career change in the field of development and programming without suspecting that this field would become a real passion. I have always been attracted to it but without really taking part in it. <br/><br/>
-                I started courses and a program created by professional web developers by learning the fundamental languages for website and mobile web creation. <br/><br/>
+                Also i started courses and a program created by professional web developers by learning the fundamental languages for website and mobile web creation. <br/><br/>
                 I often experiment in order to develop the creative side I have, not to fall into a certain routine, to try other paradigms. <br/><br/>
                 These tests always teach me something, push me to discover more, to go further and to be able to share this to learn and try to make the world a better place! <br/><br/>
                 Also this field with a worldwide influence allows to exchange with the world literally, isn't this the quintessence of this field? I think that's part of it.<br/><br/>
